@@ -67,7 +67,7 @@
                         <thead>
                             <tr class="bg-primary">
                                 <th><center>No</center></th>
-                                <th><center>Nama Siswa/Siswi Ajah</center></th>
+                                <th><center>Nama Siswa/Siswi</center></th>
                                 <th><center>Kelas</center></th>
                                 <th><center>Aksi</center></th>
                             </tr>
